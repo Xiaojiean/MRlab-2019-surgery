@@ -10,7 +10,7 @@ Project Owners ~add last names~:
 * Leonardo
 * Yang
 
-![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video.gif)
+<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video.gif" width="70%">.
 
 ![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video3.gif)
 
