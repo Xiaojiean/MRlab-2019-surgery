@@ -9,12 +9,17 @@ Project Owners ~add last names~:
 * Jonathan
 * Leonardo
 * Yang
+<p align="center">
+<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video.gif" width="71%"/>
+</p>
 
-<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video.gif" width="71%">
+<p align="center">
+<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video3.gif"/>
+</p>
 
-![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video3.gif)
-
-![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video2.gif)
+<p align="center">
+<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video2.gif"/>
+</p>
 
 
 ## Log of progress
