@@ -11,8 +11,9 @@ Project Owners ~add last names~:
 * Yang
 
 ![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video.gif)
-![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video1.mp4)
-![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video2.mp4)
+![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video3.gif)
+
+ ![](https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/video2.gif)
 
 
 ## Log of progress
