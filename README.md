@@ -2,7 +2,7 @@
 
 A collaboration of Surgery Assistant Project, using Microsoft Hololens 2 and mixed reality tools.
 
-Project Owners ~add last names~: 
+Project Owners: 
 
 * Adrian
 * Alessia
@@ -54,6 +54,6 @@ Once the deployment complete, the hololens may automatically start that applicat
 
 ### Adding MRTK functions 
 
-Going through the [MRTK tutorial](https://microsoft.github.io/MixedRealityToolkit-Unity/README.html). We ~currently~ added some control scripts to the bones, in order to enable dragging, scaling functions, and it works.
+Going through the [MRTK tutorial](https://microsoft.github.io/MixedRealityToolkit-Unity/README.html). We added some control scripts to the bones, in order to enable dragging, scaling functions, and it works.
 
 More logs should come up then...
