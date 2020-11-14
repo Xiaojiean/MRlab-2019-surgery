@@ -5,11 +5,11 @@ Nowadays, surgeons operate complex fracture surgeries without being able to prop
 This application aims to assist surgeons in fracture surgeries (and potentially in other procedures) by providing an intuitive and non-contaminant method for accessing and manipulating medical data through the **Microsoft Hololens 2 device**. Therefore, human resources can be better managed and surgeries can be performed more efficiently.
 
 Project Collaborators: 
-* Adrian
-* Alessia
-* Jonathan
-* Leonardo
-* Yang
+* A. Klaeger
+* A. Paccagnella
+* J. Lehner
+* L. Albuquerque
+* Y. Zhou
 
 ## Demo gifs
 <p align="center">
