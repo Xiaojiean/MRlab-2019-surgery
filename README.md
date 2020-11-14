@@ -62,4 +62,3 @@ Once the deployment complete, the hololens may automatically start that applicat
 
 Going through the [MRTK tutorial](https://microsoft.github.io/MixedRealityToolkit-Unity/README.html). We added some control scripts to the bones, in order to enable dragging, scaling functions, and it works.
 
-More logs should come up then...
