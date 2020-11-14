@@ -1,4 +1,7 @@
 # MRlab-2019-surgery
+<p align="center">
+<img src="https://github.com/alessiapacca/MRlab-2019-surgery/blob/master/imgs/MRTK_Logo.png" width="71%"/>
+</p>
 
 ## Project Description
 Nowadays, surgeons operate complex fracture surgeries without being able to properly manipulate data during the procedures because of sterilization issues. Oftentimes, they need multiple assistants who will go through the data and tell/show them the relevant pieces of information throughout the surgery. This process is both inefficient and cumbersome as it detaches the surgeon from the actual data and wastes human resources: doctors and nurses who have to assist with data manipulation and who could otherwise be helping more objectively.<br>
