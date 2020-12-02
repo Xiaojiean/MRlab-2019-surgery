@@ -29,7 +29,7 @@ Project Collaborators:
 
 ## Functionalities
 ## Move the bone and his fragments
-The bone can be grabbed and moved around the scenes with only two fingers. It can also be decomposed into his small fragments parts. A menu button can then reset the initial position of the object. 
+The bone can be grabbed and moved around the scene with only two fingers. It can also be decomposed into his small fragments parts. A menu button can then reset the initial position of the object. 
 
 ## Edit opacity
 Another function that we implemented was the ability to change the transparency level of the object when needed to be hidden. The initial opacity can be restored through a menu button.
