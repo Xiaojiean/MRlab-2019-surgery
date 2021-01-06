@@ -32,7 +32,7 @@ Project Collaborators:
 This function, that can be found on the menu, allows for excluding (and alternatively including) the adjusted bone mesh from the view.
 
 ### Translate and rotate the bone and his fragments
-The bone can be grabbed, translated and rotared in the scene with only two fingers. It can also be decomposed into his small fragments parts. A menu button can then reset the initial position of the object. 
+The bone can be grabbed, translated and rotated in the scene with only two fingers. It can also be decomposed into his small fragments parts. A menu button can then reset the initial position of the object. 
 
 ### Edit opacity
 Another function that we implemented was the ability to change the transparency level of the object when needed to be hidden. This enables to have a better visualization of specific parts of the fracture without loosing track of the momentarily ”unimportant” ones. The initial opacity can be restored through a menu button.
